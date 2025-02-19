@@ -12,8 +12,8 @@ const Intro: React.FC = () => {
           transition={{ duration: 0.5 }}
           className="md:w-1/2 md:pr-10"
         >
-          <h1 className="text-4xl text-white font-bold mb-4">Nejad lawfirm and Legal Consultations</h1>
-          <p className="text-xl text-white">Discover amazing services and products.</p>
+          <h1 className="text-4xl text-white font-bold mb-4">Nejad lawfirm & Legal Consultations</h1>
+          <p className="text-xl text-white">Nejad Law Firm provides expert legal services across various specialties, both locally and internationally.</p>
         </motion.div>
       </div>
     </section>

@@ -15,14 +15,16 @@ const AboutUs: React.FC = () => {
         w-full
         mb-4
         rounded-[60px]
-        md:w-1/3
+        md:w-2/5
+        lg:w-[250px]
+        
         md:float-right
         md:ml-4
       "
     />
         
         <p className="md:text-left md:align-left text-xl text-gray-600 max-w-3xl text-center">
-        Nejad lawfirm was established from the heart of the Islamic world, Makkah Al-Mukarramah, until it landed in the province of Jeddah and flourished in all cities of the Kingdom of Saudi Arabia. Its work was not limited to the internal level only, but also expanded by working outside the Kingdom of Saudi Arabia. Nejad lawfirm includes a group of lawyers, consultants and legal assistants in various expertise and specialization. It embodies cadres in the field of law with the aim of offering innovative legal solutions outside the usual frameworks to provide modern legal services at a high quality level. All these amazing achievements are nothing but a result of cumulative professional and academic experiences of more than fifteen years in the field of law.
+        Nejad Law Firm was founded in Makkah and expanded to Jeddah, growing across Saudi Arabia and internationally. It brings together experienced lawyers, consultants, and legal assistants across various specialties. With over 15 years of expertise, the firm delivers innovative, high-quality legal solutions beyond traditional frameworks.
         </p>
         </div>
       
